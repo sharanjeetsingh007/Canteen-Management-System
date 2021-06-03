@@ -4,6 +4,7 @@ The project is about Canteen Management System with admin and user roles, the us
 
 # Software needed
 1. Visual Studio Code (preferable IDE)
+2. Node.js
 
 
 
