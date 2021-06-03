@@ -7,7 +7,6 @@ The project is about Canteen Management System with admin and user roles, the us
 2. Node.js
 
 
-
 # Installatioon
 
 1. Download the github folder.
